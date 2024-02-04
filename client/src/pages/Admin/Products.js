@@ -23,8 +23,8 @@ const Products = () => {
     getAllProducts();
   }, []);
   return (
-    <Layout>
-      <div className="row dashboard">
+    <Layout> 
+      <div className="row dashboard container-fluid m-3 p-3">
         <div className="col-md-3">
           <AdminMenu />
         </div>

@@ -16,7 +16,7 @@ export default function PrivateRoute() {
       } else {
         setOk(false);
       }
-    };
+    }; 
     if (auth?.token) authCheck();
   }, [auth?.token]);
 

@@ -13,13 +13,28 @@ const Policy = () => {
           />
         </div>
         <div className="col-md-4">
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
+          <p>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+          </p>
         </div>
       </div>
     </Layout>

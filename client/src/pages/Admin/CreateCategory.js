@@ -76,7 +76,6 @@ const CreateCategory = () => {
       );
       if (data.success) {
         toast.success(`category is deleted`);
-
         getAllCategory();
       } else {
         toast.error(data.message);
